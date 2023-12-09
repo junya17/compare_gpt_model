@@ -29,7 +29,7 @@ class OpenAIChats: #OpenAIChatsクラスの作成
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt},
             ],
-            max_tokens=100, # GPT-4はより詳細な解説をするので長めに設定。
+            max_tokens=300, # GPT-4はより詳細な解説をするので長めに設定。
             temperature=temperature,
         )
         end_time = time.time()
