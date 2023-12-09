@@ -21,19 +21,13 @@ To run this project locally, follow these steps:
 2. Clone this repository:
 
     ```
-    git clone [Repository URL]
+    git clone https://github.com/sumiya19/compere_gpt_model.git
     ```
 
-3. Navigate to the project directory:
+3. Run the script:
 
     ```
-    cd [Path to the cloned directory]
-    ```
-
-4. Run the script:
-
-    ```
-    python [Script filename]
+    python python.py
     ```
 
 ## Usage
