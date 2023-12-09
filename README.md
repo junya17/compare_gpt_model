@@ -1,3 +1,6 @@
+<img width="1288" alt="スクリーンショット 2023-12-09 18 52 38" src="https://github.com/sumiya19/compare_gpt_model/assets/28526782/2d69800d-19f1-43d2-8abc-1777ce7fc59a">
+
+
 # OpenAI Chat Interface
 
 This project provides a Gradio interface for generating text using OpenAI's GPT-3.5 and GPT-4 models.
@@ -23,8 +26,12 @@ To run this project locally, follow these steps:
     ```
     git clone https://github.com/sumiya19/compere_gpt_model.git
     ```
+3. Navigate to the project directory:
 
-3. Run the script:
+    ```
+    cd compare_gpt_model
+    ```
+4. Run the script:
 
     ```
     python python.py
@@ -40,11 +47,5 @@ Once the interface is launched, use it as follows:
 
 The responses and their generation times will be displayed.
 
-## License
 
-[Insert License Information Here]
-
-## Contributing
-
-Include information about contributing to the project (Optional).
 
